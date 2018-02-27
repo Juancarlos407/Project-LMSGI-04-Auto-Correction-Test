@@ -27,9 +27,9 @@ Puedes visitar la página [Aquí]()
 
 HTML validado [Aquí]()
 
-CSS validado [Aquí]()
+CSS validado [Aquí](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frawgit.com%2FJuancarlos407%2FProjecte-LMSGI-04-examen-amb-autocorrecio%2Fmaster%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=es)
 
-JavaScript validado [Aquí]()
+JavaScript validado [Aquí](http://esprima.org/demo/validate.html)
 
-XML validado [Aquí]()
+XML validado [Aquí](https://www.xmlvalidation.com/index.php?id=1&L=0)
 
