@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!--<!DOCTYPE questions SYSTEM "questions.dtd">-->
-<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="questions.xsd">
+<!DOCTYPE questions SYSTEM "questions.dtd">
+<!--<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="questions.xsd">-->
 	<question id="profe_001">
 		<type>text</type>
 		<title>1 - Partes iguales en las que se divide el capital social de una sociedad:</title>
