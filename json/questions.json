@@ -1,1 +1,116 @@
-{"questions":{"-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance", "-xsi:noNamespaceSchemaLocation": "questions.xsd", "question": [{"-id": "profe_001", "type": "text", "title": "1 - Partes iguales en las que se divide el capital social de una sociedad:", "answer": "acciones"},{"-id": "profe_002", "type": "radio", "title": "2 - Una BETA mayor a 1 significa que el fondo se moverá de forma ________ con el mercado", "option": [ "proporcional", "relajada", "agresiva"], "answer": "2"},{"-id": "profe_003", "type": "text", "title": "3 - Parte de las ganancias de una sociedad que se distribuye periódicamente entre sus accionistas:", "answer": "dividendo"},{"-id": "profe_004", "type": "select", "title": "4 - La relación entre el precio o valor y los beneficios:", "option": [ "PER", "BETA", "BPA"], "answer": "0"},{"-id": "profe_005", "type": "radio", "title": "5 - Una BETA menor a 1 significa que el fondo se moverá de forma ________ con el mercado", "option": [ "proporcional", "agresiva", "relajada"], "answer": "2"},{"-id": "profe_006", "type": "select", "title": "6 - Beneficio neto dividido por el número de acciones de la empresa:", "option": [ "PER", "BETA", "BPA"], "answer": "2"},{"-id": "profe_007", "type": "checkbox", "title": "7 - Una BETA igual a 1 significa que el fondo se moverá de forma ________ con el mercado (varias opciones)", "option": [ "proporcional", "igual", "relajada"], "answer": [ "0", "1"]},{"-id": "profe_008", "type": "multiple", "title": "8 - Un PER por debajo de 10 nos indica:", "option": [ "La acción se encuentra infravalorada o los inversores creen que los beneficios de la empresa tienden al declive.", "Para las empresas, este valor de PER suele ser el adecuado (i.e. retorno de inversión más beneficio estándar).", "La acción se encuentra sobrevalorada o los beneficios de la empresa han crecido desde los beneficios anteriores.", "Se debe a grandes expectativas de crecimiento de los beneficios futuros, o a una burbuja financiera especulativa."], "answer": "0"},{"-id": "profe_009", "type": "checkbox", "title": "9 - Variable que sirve para medir la rentabilidad relativa entre varios activos:", "option": [ "PER", "BETA", "BPA"], "answer": "1"},{"-id": "profe_000", "type": "multiple", "title": "10 - Un PER por encima de 17 nos indica (varias opciones):", "option": [ "La acción se encuentra infravalorada o los inversores creen que los beneficios de la empresa tienden al declive.", "Para las empresas, este valor de PER suele ser el adecuado (i.e. retorno de inversión más beneficio estándar).", "La acción se encuentra sobrevalorada o los beneficios de la empresa han crecido desde los beneficios anteriores.", "Se debe a grandes expectativas de crecimiento de los beneficios futuros, o a una burbuja financiera especulativa."], "answer": [ "2", "3"]}]}}
+{
+  "questions": {
+    "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "-xsi:noNamespaceSchemaLocation": "questions.xsd",
+    "question": [
+      {
+        "-id": "profe_001",
+        "type": "text",
+        "title": "1 - Partes iguales en las que se divide el capital social de una sociedad:",
+        "answer": "acciones"
+      },
+      {
+        "-id": "profe_002",
+        "type": "radio",
+        "title": "2 - Una BETA mayor a 1 significa que el fondo se moverá de forma ________ con el mercado",
+        "option": [
+          "proporcional",
+          "relajada",
+          "agresiva"
+        ],
+        "answer": "2"
+      },
+      {
+        "-id": "profe_003",
+        "type": "text",
+        "title": "3 - Parte de las ganancias de una sociedad que se distribuye periódicamente entre sus accionistas:",
+        "answer": "dividendo"
+      },
+      {
+        "-id": "profe_004",
+        "type": "select",
+        "title": "4 - La relación entre el precio o valor y los beneficios:",
+        "option": [
+          "PER",
+          "BETA",
+          "BPA"
+        ],
+        "answer": "0"
+      },
+      {
+        "-id": "profe_005",
+        "type": "radio",
+        "title": "5 - Una BETA menor a 1 significa que el fondo se moverá de forma ________ con el mercado",
+        "option": [
+          "proporcional",
+          "agresiva",
+          "relajada"
+        ],
+        "answer": "2"
+      },
+      {
+        "-id": "profe_006",
+        "type": "select",
+        "title": "6 - Beneficio neto dividido por el número de acciones de la empresa:",
+        "option": [
+          "PER",
+          "BETA",
+          "BPA"
+        ],
+        "answer": "2"
+      },
+      {
+        "-id": "profe_007",
+        "type": "checkbox",
+        "title": "7 - Una BETA igual a 1 significa que el fondo se moverá de forma ________ con el mercado (varias opciones)",
+        "option": [
+          "proporcional",
+          "igual",
+          "relajada"
+        ],
+        "answer": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "-id": "profe_008",
+        "type": "multiple",
+        "title": "8 - Un PER por debajo de 10 nos indica:",
+        "option": [
+          "La acción se encuentra infravalorada o los inversores creen que los beneficios de la empresa tienden al declive.",
+          "Para las empresas, este valor de PER suele ser el adecuado (i.e. retorno de inversión más beneficio estándar).",
+          "La acción se encuentra sobrevalorada o los beneficios de la empresa han crecido desde los beneficios anteriores.",
+          "Se debe a grandes expectativas de crecimiento de los beneficios futuros, o a una burbuja financiera especulativa."
+        ],
+        "answer": "0"
+      },
+      {
+        "-id": "profe_009",
+        "type": "checkbox",
+        "title": "9 - Variable que sirve para medir la rentabilidad relativa entre varios activos:",
+        "option": [
+          "PER",
+          "BETA",
+          "BPA"
+        ],
+        "answer": "1"
+      },
+      {
+        "-id": "profe_000",
+        "type": "multiple",
+        "title": "10 - Un PER por encima de 17 nos indica (varias opciones):",
+        "option": [
+          "La acción se encuentra infravalorada o los inversores creen que los beneficios de la empresa tienden al declive.",
+          "Para las empresas, este valor de PER suele ser el adecuado (i.e. retorno de inversión más beneficio estándar).",
+          "La acción se encuentra sobrevalorada o los beneficios de la empresa han crecido desde los beneficios anteriores.",
+          "Se debe a grandes expectativas de crecimiento de los beneficios futuros, o a una burbuja financiera especulativa."
+        ],
+        "answer": [
+          "2",
+          "3"
+        ]
+      }
+    ]
+  }
+}
