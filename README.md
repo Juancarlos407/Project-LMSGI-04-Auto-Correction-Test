@@ -29,8 +29,6 @@ HTML validado [Aquí](https://validator.w3.org/nu/?doc=https%3A%2F%2Frawgit.com%
 
 CSS validado [Aquí](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frawgit.com%2FJuancarlos407%2FProjecte-LMSGI-04-examen-amb-autocorrecio%2Fmaster%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=es)
 
-JavaScript validado [Aquí](http://esprima.org/demo/validate.html)
+Validar JavaScript [Aquí](http://esprima.org/demo/validate.html)
 
-XML validado con XSD [Aquí](https://www.xmlvalidation.com/index.php?id=1&L=0)
-
-XML validado con DTD [Aquí](https://www.xmlvalidation.com/index.php?id=1&L=0)
+Validar XML [Aquí](https://www.xmlvalidation.com/index.php?id=1&L=0)
