@@ -31,5 +31,6 @@ CSS validado [Aquí](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%
 
 JavaScript validado [Aquí](http://esprima.org/demo/validate.html)
 
-XML validado [Aquí](https://www.xmlvalidation.com/index.php?id=1&L=0)
+XML validado con XSD [Aquí](https://www.xmlvalidation.com/index.php?id=1&L=0)
 
+XML validado con DTD [Aquí](https://www.xmlvalidation.com/index.php?id=1&L=0)
